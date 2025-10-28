@@ -1,5 +1,0 @@
-fastapi
-uvicorn[standard]
-python-jose[cryptography]
-passlib[argon2]
-python-dotenv
